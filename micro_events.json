@@ -1,0 +1,72 @@
+[
+  {
+    "raw_row": 82,
+    "interval_start_s": 1.64,
+    "measurement_timestamp_s": 1.6600000000000013,
+    "description": "左手—底座首次几何接触",
+    "evidence": "simulation_contact_ledger"
+  },
+  {
+    "raw_row": 83,
+    "interval_start_s": 1.66,
+    "measurement_timestamp_s": 1.6800000000000013,
+    "description": "左手外部载荷超过 0.1 N",
+    "evidence": "tactile_threshold"
+  },
+  {
+    "raw_row": 117,
+    "interval_start_s": 2.34,
+    "measurement_timestamp_s": 2.3599999999999617,
+    "description": "左手外部载荷峰值 62.58 N",
+    "evidence": "tactile_peak"
+  },
+  {
+    "raw_row": 132,
+    "interval_start_s": 2.64,
+    "measurement_timestamp_s": 2.6599999999999286,
+    "description": "底座—桌面接触解除",
+    "evidence": "simulation_contact_ledger"
+  },
+  {
+    "raw_row": 212,
+    "interval_start_s": 4.24,
+    "measurement_timestamp_s": 4.259999999999753,
+    "description": "右手—桌面接触 / 右手载荷建立",
+    "evidence": "contact_ledger_and_tactile"
+  },
+  {
+    "raw_row": 231,
+    "interval_start_s": 4.62,
+    "measurement_timestamp_s": 4.639999999999711,
+    "description": "右手外部载荷峰值 95.92 N（尚未接触杆）",
+    "evidence": "tactile_peak_and_contact_ledger"
+  },
+  {
+    "raw_row": 238,
+    "interval_start_s": 4.76,
+    "measurement_timestamp_s": 4.779999999999696,
+    "description": "右手—黄色杆接触建立",
+    "evidence": "simulation_contact_ledger"
+  },
+  {
+    "raw_row": 249,
+    "interval_start_s": 4.98,
+    "measurement_timestamp_s": 4.999999999999671,
+    "description": "右手—桌面接触解除",
+    "evidence": "simulation_contact_ledger"
+  },
+  {
+    "raw_row": 250,
+    "interval_start_s": 5.0,
+    "measurement_timestamp_s": 5.019999999999669,
+    "description": "黄色杆—桌面接触解除",
+    "evidence": "simulation_contact_ledger"
+  },
+  {
+    "raw_row": 868,
+    "interval_start_s": 17.36,
+    "measurement_timestamp_s": 17.380000000001246,
+    "description": "黄色杆—底座接触建立",
+    "evidence": "simulation_contact_ledger"
+  }
+]

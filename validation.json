@@ -1,0 +1,250 @@
+{
+  "passed": true,
+  "coverage_frames": 898,
+  "continuous_no_overlap": true,
+  "min_frames": 49,
+  "min_actual_frames": 51,
+  "all_sample49_unique": true,
+  "source_h5_bytes": 8639087802,
+  "mujoco_version": "3.4.0",
+  "force_scale": "fixed 0-36 N per taxel across events and hands",
+  "arrow_scale_mm_per_N": 3,
+  "force_channels_preserved_signed": true,
+  "external_and_self_separate": true,
+  "combined": {
+    "frames": 898,
+    "fps": 50.0,
+    "width": 2160,
+    "height": 1320
+  },
+  "events": [
+    {
+      "event": 1,
+      "frames": 83,
+      "videos": {
+        "visualization": {
+          "frames": 83,
+          "fps": 50.0,
+          "width": 2160,
+          "height": 1320,
+          "decoded_frames": 83
+        },
+        "third_person": {
+          "frames": 83,
+          "fps": 50.0,
+          "width": 640,
+          "height": 640,
+          "decoded_frames": 83
+        },
+        "left_wrist": {
+          "frames": 83,
+          "fps": 50.0,
+          "width": 640,
+          "height": 640,
+          "decoded_frames": 83
+        },
+        "right_wrist": {
+          "frames": 83,
+          "fps": 50.0,
+          "width": 640,
+          "height": 640,
+          "decoded_frames": 83
+        }
+      },
+      "tactile_exact": true,
+      "self_tactile_exact": true,
+      "action_exact": true,
+      "sample49_unique": true
+    },
+    {
+      "event": 2,
+      "frames": 73,
+      "videos": {
+        "visualization": {
+          "frames": 73,
+          "fps": 50.0,
+          "width": 2160,
+          "height": 1320,
+          "decoded_frames": 73
+        },
+        "third_person": {
+          "frames": 73,
+          "fps": 50.0,
+          "width": 640,
+          "height": 640,
+          "decoded_frames": 73
+        },
+        "left_wrist": {
+          "frames": 73,
+          "fps": 50.0,
+          "width": 640,
+          "height": 640,
+          "decoded_frames": 73
+        },
+        "right_wrist": {
+          "frames": 73,
+          "fps": 50.0,
+          "width": 640,
+          "height": 640,
+          "decoded_frames": 73
+        }
+      },
+      "tactile_exact": true,
+      "self_tactile_exact": true,
+      "action_exact": true,
+      "sample49_unique": true
+    },
+    {
+      "event": 3,
+      "frames": 94,
+      "videos": {
+        "visualization": {
+          "frames": 94,
+          "fps": 50.0,
+          "width": 2160,
+          "height": 1320,
+          "decoded_frames": 94
+        },
+        "third_person": {
+          "frames": 94,
+          "fps": 50.0,
+          "width": 640,
+          "height": 640,
+          "decoded_frames": 94
+        },
+        "left_wrist": {
+          "frames": 94,
+          "fps": 50.0,
+          "width": 640,
+          "height": 640,
+          "decoded_frames": 94
+        },
+        "right_wrist": {
+          "frames": 94,
+          "fps": 50.0,
+          "width": 640,
+          "height": 640,
+          "decoded_frames": 94
+        }
+      },
+      "tactile_exact": true,
+      "self_tactile_exact": true,
+      "action_exact": true,
+      "sample49_unique": true
+    },
+    {
+      "event": 4,
+      "frames": 150,
+      "videos": {
+        "visualization": {
+          "frames": 150,
+          "fps": 50.0,
+          "width": 2160,
+          "height": 1320,
+          "decoded_frames": 150
+        },
+        "third_person": {
+          "frames": 150,
+          "fps": 50.0,
+          "width": 640,
+          "height": 640,
+          "decoded_frames": 150
+        },
+        "left_wrist": {
+          "frames": 150,
+          "fps": 50.0,
+          "width": 640,
+          "height": 640,
+          "decoded_frames": 150
+        },
+        "right_wrist": {
+          "frames": 150,
+          "fps": 50.0,
+          "width": 640,
+          "height": 640,
+          "decoded_frames": 150
+        }
+      },
+      "tactile_exact": true,
+      "self_tactile_exact": true,
+      "action_exact": true,
+      "sample49_unique": true
+    },
+    {
+      "event": 5,
+      "frames": 447,
+      "videos": {
+        "visualization": {
+          "frames": 447,
+          "fps": 50.0,
+          "width": 2160,
+          "height": 1320,
+          "decoded_frames": 447
+        },
+        "third_person": {
+          "frames": 447,
+          "fps": 50.0,
+          "width": 640,
+          "height": 640,
+          "decoded_frames": 447
+        },
+        "left_wrist": {
+          "frames": 447,
+          "fps": 50.0,
+          "width": 640,
+          "height": 640,
+          "decoded_frames": 447
+        },
+        "right_wrist": {
+          "frames": 447,
+          "fps": 50.0,
+          "width": 640,
+          "height": 640,
+          "decoded_frames": 447
+        }
+      },
+      "tactile_exact": true,
+      "self_tactile_exact": true,
+      "action_exact": true,
+      "sample49_unique": true
+    },
+    {
+      "event": 6,
+      "frames": 51,
+      "videos": {
+        "visualization": {
+          "frames": 51,
+          "fps": 50.0,
+          "width": 2160,
+          "height": 1320,
+          "decoded_frames": 51
+        },
+        "third_person": {
+          "frames": 51,
+          "fps": 50.0,
+          "width": 640,
+          "height": 640,
+          "decoded_frames": 51
+        },
+        "left_wrist": {
+          "frames": 51,
+          "fps": 50.0,
+          "width": 640,
+          "height": 640,
+          "decoded_frames": 51
+        },
+        "right_wrist": {
+          "frames": 51,
+          "fps": 50.0,
+          "width": 640,
+          "height": 640,
+          "decoded_frames": 51
+        }
+      },
+      "tactile_exact": true,
+      "self_tactile_exact": true,
+      "action_exact": true,
+      "sample49_unique": true
+    }
+  ]
+}
